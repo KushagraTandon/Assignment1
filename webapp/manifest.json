@@ -60,6 +60,7 @@
 			"city": {
 				"type": "sap.ui.model.json.JSONModel",
 				"settings": {},
+				"uri": "./model/city.json",
 				"preload": false
 			}
 		},
