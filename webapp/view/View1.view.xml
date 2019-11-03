@@ -1,0 +1,17 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="Kushagra_1-11-19_1.Kushagra_1-11-19_1.controller.View1" displayBlock="true">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="1st Assignment">
+					<content>
+						<InputListItem label="Invenio Office Location" id="item0">
+							<content>
+						        <Input ariaLabelledBy="__item2-label" id="input1" showValueHelp="true" valueHelpRequest="officeLocation" valueHelpOnly="true"/>
+						    </content>
+						</InputListItem>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
